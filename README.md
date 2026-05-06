@@ -82,13 +82,13 @@ channels. This analysis answers five key business questions:
 
 ## Dashboard Preview
 ### Page 1 — Business Overview
-![Business Overview](page1-business-overview.jpg)
+![Business Overview](page1-Business-Overview.jpg)
 
 ### Page 2 — Delivery & Satisfaction
-![Delivery Satisfaction](page2-delivery-satisfaction.jng)
+![Delivery Satisfaction](page2-delivery-satisfaction.jpg)
 
 ### Page 3 — Product & Seller Performance
-![Product Seller](page3-product-seller.jng)
+![Product Seller](page3-Product-Sellerperformance.jpg)
 
 ## SQL Queries
 All analysis queries are available in the 
